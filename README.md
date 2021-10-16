@@ -1,8 +1,10 @@
 # CoffeOrderApp
 
+&nbsp;
 
+><p> An application that you can create an order of coffee.</p> 
+><p>In this application developed using MVVM architecture.</p>
 
-> An application that you can create an order of coffee. In this application developed using MVVM architecture
-
+&nbsp;
 
 ![CoffeOrder Gif](/CoffeOrderAppGif.gif)
